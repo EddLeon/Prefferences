@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TextViewTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_edit_settings">EditSettingsActivity</string>
+    <string name="preference_file_key">radika_user_settings</string>
+    <string name="alarm1">alarm1</string>
+    <string name="alarm2">alarm2</string>
+    <string name="alarm3">alarm3</string>
+    <string name="alarm4">alarm4</string>
+    <string name="alarm5">alarm5</string>
+    <string name="alarm6">alarm6</string>
+    <string name="jump_number">jump_number</string>
+    <string name="free_fall_total_time">free_fall_total_time</string>
+    <string name="open_parachute">open_parachute</string>
+    <string name="plane_maximum_altitude">plane_maximum_altitude</string>
+    <string name="maximum_speed">maximum_speed</string>
+    <string name="total_horizontal_distance">total_horizontal_distance</string>
+    <string name="free_fall_total_time_hour">free_fall_total_time_hour</string>
+    <string name="free_fall_total_time_minute">free_fall_total_time_minute</string>
+    <string name="free_fall_total_time_second">free_fall_total_time_second</string>
+</resources>
